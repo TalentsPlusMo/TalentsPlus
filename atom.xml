@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://talentsplusmo.github.io/</id>
+    <title>自我定位 x 優勢探索 X 職涯發展 </title>
+    <updated>2024-10-10T17:08:05.572Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://talentsplusmo.github.io/"/>
+    <link rel="self" href="https://talentsplusmo.github.io/atom.xml"/>
+    <subtitle>Foster Your Talents for Career Success</subtitle>
+    <logo>https://talentsplusmo.github.io/images/avatar.png</logo>
+    <icon>https://talentsplusmo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 自我定位 x 優勢探索 X 職涯發展 </rights>
+    <entry>
+        <title type="html"><![CDATA[ 《筆記》五步搞定一份捧捧的簡歷]]></title>
+        <id>https://talentsplusmo.github.io/lesslessbi-ji-greatergreater-wu-bu-gao-ding-yi-fen-peng-peng-de-jian-li/</id>
+        <link href="https://talentsplusmo.github.io/lesslessbi-ji-greatergreater-wu-bu-gao-ding-yi-fen-peng-peng-de-jian-li/">
+        </link>
+        <updated>2020-09-22T16:37:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>點擊筆記標題/圖片查看更多內容 --&gt;</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>點擊筆記標題/圖片查看更多內容 --&gt;</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《筆記》給職場迷茫或想跳槽的實用的建議]]></title>
+        <id>https://talentsplusmo.github.io/post1/</id>
+        <link href="https://talentsplusmo.github.io/post1/">
+        </link>
+        <updated>2020-08-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>點擊筆記標題/圖片查看更多內容 --&gt;</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>點擊筆記標題/圖片查看更多內容 --&gt;</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《筆記》撰寫完美履歷的秘笈]]></title>
+        <id>https://talentsplusmo.github.io/lesslessbi-ji-greatergreater-zhuan-xie-wan-mei-lu-li-de-mi-ji/</id>
+        <link href="https://talentsplusmo.github.io/lesslessbi-ji-greatergreater-zhuan-xie-wan-mei-lu-li-de-mi-ji/">
+        </link>
+        <updated>2020-06-30T02:27:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>點擊筆記標題/圖片查看更多內容 --&gt;</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>點擊筆記標題/圖片查看更多內容 --&gt;</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About Us]]></title>
+        <id>https://talentsplusmo.github.io/about/</id>
+        <link href="https://talentsplusmo.github.io/about/">
+        </link>
+        <updated>2019-09-13T11:09:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>點擊 About Us 標題/圖片查看更多內容 --&gt;</p>
+<h2 id="歡迎來到talents">👏 歡迎來到Talents+</h2>
+<p>🤼‍♂ 在這個職場競爭日益激烈的時代，您是否經常感到迷茫，不知如何為自己的職業生涯找到正確的方向？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>點擊 About Us 標題/圖片查看更多內容 --&gt;</p>
+<h2 id="歡迎來到talents">👏 歡迎來到Talents+</h2>
+<p>🤼‍♂ 在這個職場競爭日益激烈的時代，您是否經常感到迷茫，不知如何為自己的職業生涯找到正確的方向？</p>
+]]></content>
+    </entry>
+</feed>
